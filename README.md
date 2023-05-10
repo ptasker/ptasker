@@ -4,7 +4,6 @@ I'm currently a Senior Software Engineer/Developer at GitHub working on [GitHub 
 
 
 - 🔭 I’m currently working on all things GitHub Actions!
-- 🌱 I’m currently learning C#, Go, Ruby
 - 💬 Ask me about anything!
 - 📫 How to reach me: https://twitter.com/petetasker ⬅️ DMs open
 - 😄 Pronouns: he/him
